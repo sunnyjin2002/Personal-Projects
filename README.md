@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0002-add-two-numbers](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -23,8 +24,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
