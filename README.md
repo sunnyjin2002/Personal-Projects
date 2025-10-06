@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0007-reverse-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
+| [2238-a-number-after-a-double-reversal](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2238-a-number-after-a-double-reversal) |
 ## Recursion
 |  |
 | ------- |
