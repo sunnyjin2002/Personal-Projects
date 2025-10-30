@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2238-a-number-after-a-double-reversal) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0001-two-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0022-generate-parentheses) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
