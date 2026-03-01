@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0007-reverse-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
@@ -74,8 +75,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
