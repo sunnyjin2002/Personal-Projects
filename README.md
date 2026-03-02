@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0022-generate-parentheses) |
+| [0815-champagne-tower](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0815-champagne-tower) |
 ## Matrix
 |  |
 | ------- |
