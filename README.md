@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0001-two-sum) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sliding Window
 |  |
