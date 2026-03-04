@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0013-roman-to-integer](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0058-length-of-last-word) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
