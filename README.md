@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
