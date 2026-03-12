@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [1054-complement-of-base-10-integer](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
