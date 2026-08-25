@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2107-find-unique-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnyjin2002/Personal-Projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2107-find-unique-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/2107-find-unique-binary-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
