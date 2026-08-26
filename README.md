@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0175-combine-two-tables](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0177-nth-highest-salary) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
