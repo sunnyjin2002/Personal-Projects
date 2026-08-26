@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2107-find-unique-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/2107-find-unique-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
