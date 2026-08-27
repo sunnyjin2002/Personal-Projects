@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sunnyjin2002/Personal-Projects/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/2107-find-unique-binary-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3813-smallest-palindromic-rearrangement-ii](https://github.com/sunnyjin2002/Personal_Projects_and_Leet_Code_Soln/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
